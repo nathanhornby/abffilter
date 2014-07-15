@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="abffilter" status="released" xmlns="http://symphony-cms.com/schemas/extension/1.0">
+	<name>ABF Filter</name>
+	<description>ABF Filter for member login and password reset</description>
+	<types>
+		<type>Security</type>
+		<type>Login</type>
+		<type>Brute Force</type>
+	</types>
+	<authors>
+		<author>
+			<name github="iwyg" symphony="iwyg" twitter="_iwyg_">Thomas Appel</name>
+			<email>mail@thomas-appel.com</email>
+			<website>http://thomas-appel.com</website>
+		</author>
+		<author>
+			<name github="nathanhornby" symphony="nathanhornby">Nathan Hornby</name>
+		</author>
+	</authors>
+	<releases>
+		<release version="1.0.0" date="2013-21-02" min="2.3">
+			- initial
+		</release>
+	</releases>
+</extension>
