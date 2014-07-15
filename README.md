@@ -1,5 +1,9 @@
 #ABF Members Filter
 
+##Notice
+
+This extension was funded by and subsequently open-sourced by [Crocodile Talk](https://www.crocodiletalk.com/). This extension is provided as-is and may contain issues, use at own risk.
+
 ##Synopsis
 
 ABFFilter Extension for Symphony CMS connects IP banning of the Anti Brute Force extension with the Members extension.
