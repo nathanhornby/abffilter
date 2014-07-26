@@ -12,8 +12,9 @@ ABFFilter Extension for Symphony CMS connects IP banning of the Anti Brute Force
 
 Move the abffilter directory to your extension folder and install the extension as usual (Symstem->Extensions->install/enable).
 
-If you want to use the unban via email functionality, you need to create a deticated page that contains the `ABFFilter: unban IP` event that ships with this extesnion. The pages' url handle must also be configured System->Preferences->ABF Filter->Unban URL. Be sure that `ubhash` is set as first URL parameter on that page. 
+If you want to use the unban via email functionality, you need to create a deticated page that contains the `ABFFilter: unban IP` event that ships with this extesnion. The pages' url handle must also be configured System->Preferences->ABF Filter->Unban URL. Be sure that `ubhash` is set as first URL parameter on that page.
 
+You will also need to add two deligates to the members extension's `extension.driver.php` file, here is the section you need to replace, just copy this over the existing section: https://gist.github.com/nathanhornby/773065b51faf0e092ab8
 
 ## Usage
 
