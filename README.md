@@ -1,8 +1,14 @@
+**You should be using https://github.com/michael-e/members_anti_brute_force instead**
+
+---
+
 #ABF Members Filter
 
 ##Notice
 
 This extension was funded by and subsequently open-sourced by [Crocodile Talk](https://www.crocodiletalk.com/). This extension is provided as-is and may contain issues, use at own risk.
+
+**You should be using https://github.com/michael-e/members_anti_brute_force instead**
 
 ##Synopsis
 
